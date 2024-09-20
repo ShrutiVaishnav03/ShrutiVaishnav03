@@ -1,7 +1,7 @@
 
-- ![my profile](https://github.com/user-attachments/assets/93c6538b-7732-4f84-9634-7fa4d16d9266)
-👋 Hi, I’m @ShrutiVaishnav03
--  👀  I'm interested in business analysis and analytics
+![newProfile](https://github.com/user-attachments/assets/95d2235e-ab0a-4e3e-9841-a6d915c68080)
+ -     Hi, I’m @ShrutiVaishnav03
+-  👀 I'm interested in business analysis and analytics
 - 🌱 I’m currently learning data visualisation tools
 - 💞️ I’m looking to collaborate on business analysis techniques and models
 - 📫 How to reach me http://www.linkedin.com/in/shruti-vaishnav-4a78226b 
