@@ -1,4 +1,4 @@
-![Alt text](images/my profile)
+![Alt text](image/myprofile.png)
 - 👋 Hi, I’m @ShrutiVaishnav03
 -  👀  I'm interested in business analysis and analytics
 - 🌱 I’m currently learning data visualisation tools
