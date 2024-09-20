@@ -1,5 +1,6 @@
-![Alt text](image/myprofile)
-- 👋 Hi, I’m @ShrutiVaishnav03
+
+- ![my profile](https://github.com/user-attachments/assets/93c6538b-7732-4f84-9634-7fa4d16d9266)
+👋 Hi, I’m @ShrutiVaishnav03
 -  👀  I'm interested in business analysis and analytics
 - 🌱 I’m currently learning data visualisation tools
 - 💞️ I’m looking to collaborate on business analysis techniques and models
