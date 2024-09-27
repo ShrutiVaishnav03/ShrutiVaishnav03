@@ -1,5 +1,5 @@
+![shruti git profile](https://github.com/user-attachments/assets/eb38bef3-2913-4e2d-981a-0452e34402be)
 
-![shrutiprofile](https://github.com/user-attachments/assets/b644077b-a086-4650-ad36-57cd396e9016)
 - 👋 Hi, I’m @ShrutiVaishnav03
 -  👀 I'm interested in business analysis and analytics
 - 🌱 I’m currently learning data visualization tools
